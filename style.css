@@ -1,0 +1,11 @@
+
+#mydiv{
+display:grid;
+place-content: center;
+text-align:center;
+min-height:700px;
+align-items: center;
+align-content: center;
+}
+        
+        
